@@ -64,7 +64,7 @@ No more copy-pasting long `ExecStart` lines into systemd. No more guessing flags
 
 ```bash
 # 1. Download the script
-curl -O https://raw.githubusercontent.com/bshnetwork/easytier/main/bsheasytier.sh
+curl -O https://raw.githubusercontent.com/bshnetwork/bsheasytier/main/bsheasytier.sh
 
 # 2. Make it executable
 chmod +x bsheasytier.sh
