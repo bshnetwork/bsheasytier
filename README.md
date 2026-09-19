@@ -15,7 +15,7 @@
 
 ---
 
-## 🇬🇧 English
+## English
 
 ### 📖 Overview
 
