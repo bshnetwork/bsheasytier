@@ -369,7 +369,3 @@ ExecStart=/etc/easytier/easytier-core -c /etc/easytier/config.toml
 
 </div>
 ```
-easytier  vpn  mesh-vpn  wireguard  linux  bash  shell-script  
-debian  ubuntu  arch  fedora  rhel  opensuse  whiptail  systemd  
-toml  installer  multi-instance  iran  proxy
----
