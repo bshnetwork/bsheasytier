@@ -44,7 +44,7 @@ No more copy-pasting long `ExecStart` lines into systemd. No more guessing flags
 
 ---
 
-### 🚀 Supported Platforms
+###  Supported Platforms
 
 | Distribution | Package Manager | Status |
 |---|---|---|
@@ -210,7 +210,7 @@ systemctl restart easytier.service
 
 ---
 
-### 📜 License
+###  License
 
 Released under the **MIT License**. See [LICENSE](LICENSE) for details.
 
@@ -224,7 +224,7 @@ Released under the **MIT License**. See [LICENSE](LICENSE) for details.
 
 ---
 
-## 🇮🇷 فارسی
+##  فارسی
 
 ### 📖 درباره پروژه
 
@@ -253,7 +253,7 @@ Released under the **MIT License**. See [LICENSE](LICENSE) for details.
 
 ---
 
-### 🚀 توزیع‌های پشتیبانی‌شده
+###  توزیع‌های پشتیبانی‌شده
 
 | توزیع | مدیر بسته | وضعیت |
 |---|---|---|
@@ -343,7 +343,7 @@ ExecStart=/etc/easytier/easytier-core -c /etc/easytier/config.toml
 ---
 
 
-### 📜 مجوز
+### مجوز
 
 منتشرشده تحت **مجوز MIT**. جزئیات در [LICENSE](LICENSE).
 
