@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 EasyTier Manager
+#  EasyTier Manager
 
 **Cross-distro installer & manager for [EasyTier](https://github.com/EasyTier/EasyTier) with TOML config, multi-instance support, and a friendly whiptail UI.**
 
