@@ -210,18 +210,6 @@ systemctl restart easytier.service
 
 ---
 
-### 🤝 Contributing
-
-Pull requests are welcome. For major changes, please open an issue first.
-
-1. Fork the repo
-2. Create your branch: `git checkout -b feature/amazing`
-3. Commit: `git commit -m 'Add amazing feature'`
-4. Push: `git push origin feature/amazing`
-5. Open a Pull Request
-
----
-
 ### 📜 License
 
 Released under the **MIT License**. See [LICENSE](LICENSE) for details.
