@@ -1,3 +1,34 @@
+<p align="center">
+  <img src="assets/banner.png" alt="bsheasytier — EasyTier Manager by Babak Keshavarz" width="100%">
+</p>
+
+<h3 align="center">Cross-distro installer &amp; manager for EasyTier</h3>
+
+<p align="center">
+  <a href="https://github.com/bshnetwork/bsheasytier/stargazers">
+    <img src="https://img.shields.io/github/stars/bshnetwork/bsheasytier?style=for-the-badge&logo=github&color=58a6ff" alt="Stars">
+  </a>
+  <a href="https://github.com/bshnetwork/bsheasytier/network/members">
+    <img src="https://img.shields.io/github/forks/bshnetwork/bsheasytier?style=for-the-badge&logo=github&color=7ee787" alt="Forks">
+  </a>
+  <a href="https://github.com/bshnetwork/bsheasytier/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/bshnetwork/bsheasytier?style=for-the-badge&color=f778ba" alt="License">
+  </a>
+  <a href="https://github.com/bshnetwork/bsheasytier/issues">
+    <img src="https://img.shields.io/github/issues/bshnetwork/bsheasytier?style=for-the-badge&color=ffbd2e" alt="Issues">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/babak-keshavarz">
+    <img src="https://img.shields.io/badge/LinkedIn-Babak%20Keshavarz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/bshnetwork">
+    <img src="https://img.shields.io/badge/GitHub-bshnetwork-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
+
+---
 <div align="center">
 
 #  EasyTier Manager
