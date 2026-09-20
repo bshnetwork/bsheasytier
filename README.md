@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/babak-keshavarz">
+  <a href="https://linkedin.com/in/babak-keshavarz-aa4011413">
     <img src="https://img.shields.io/badge/LinkedIn-Babak%20Keshavarz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/bshnetwork">
